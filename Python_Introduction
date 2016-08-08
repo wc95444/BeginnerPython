@@ -5,3 +5,13 @@ The below web pages have some projects that I will be doing during the next coup
 http://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
 
 http://www.practicepython.org/
+
+8/8//16:
+How to execute Python Script from Command Line.
+  1, /python installation directory/python.exe /script folder/scriptname.py
+    If either folder has spaces in them, then the folder path should be enclosed in double quotes.
+  2, Set the Environment variable for Python.
+    Add Path variable for your anaconda version as below:
+    C:\Users\svalluru\AppData\Local\Continuum\Anaconda2;C:\Users\svalluru\AppData\Local\Continuum\Anaconda2\Scripts;C:\Users\svalluru\AppData\Local\Continuum\Anaconda2\Library\bin
+    
+    Follow Instructions in the web link: http://pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/
