@@ -17,6 +17,7 @@ How to execute Python Script from Command Line.
     Follow Instructions in the web link: http://pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/
     
 8/10/16:
+Experimenting with some scripts on the website http://www.pythonforbeginners.com/
   The next learning objective will be to find how to install a python package via pip. As part of a script to scrap webpage contents I need to use
   beautifulsoup module which needs to be installed via pip.
   
